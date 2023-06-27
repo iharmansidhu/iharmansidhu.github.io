@@ -47,20 +47,18 @@ footer {
     margin-top: 50px;
     text-align: center;
     padding: 3px;
-    background-color: whitesmoke;
     color: lightslategrey;
   }
 
 .website-counter {
     height: 50px;
     width: 70px;
-    background-color: #f5f5f7;
     color: lightslategrey;
     border: 1px solid lightslategrey;
     border-radius: 40px;
     font-weight: 500;
     font-size: 25px;
-    margin-top: 10px;
     margin: auto;
+    margin-top: 15px;
     padding-top: 20px;
   }
