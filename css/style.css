@@ -19,10 +19,10 @@ body {
     justify-content: center;
 }
 
-.audio-container > * {
+/* .audio-container > * {
     border: 1px solid lightslategrey;
     border-radius: 50px;
-}
+} */
 
 .links {
     display: flex;
@@ -44,13 +44,13 @@ body {
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 30px;
     text-align: center;
     padding: 3px;
     color: lightslategrey;
   }
 
-.website-counter {
+/* .website-counter {
     height: 50px;
     width: 70px;
     color: lightslategrey;
@@ -61,4 +61,4 @@ footer {
     margin: auto;
     margin-top: 15px;
     padding-top: 20px;
-  }
+  } */
